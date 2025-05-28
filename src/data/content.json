@@ -1,0 +1,91 @@
+{
+	"church": {
+		"name": "The Upper Room",
+		"tagline": "Growing in Faith, Serving with Love",
+		"heroImage": "https://images.pexels.com/photos/534174/pexels-photo-534174.jpeg",
+		"logo": "church",
+		"description": "Welcome to Grace Community Church, where we strive to create a warm and inclusive environment for worship, growth, and community. Founded in 1985, our church has been a beacon of hope and faith in the community for over 35 years. We believe in the transformative power of God's love and are committed to sharing it with everyone who walks through our doors.",
+		"mission": "Our mission is to love God, love others, and make disciples who transform communities through the Gospel of Jesus Christ."
+	},
+	"pastor": {
+		"name": "Pastor Shiju Raj",
+		"image": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg",
+		"message": "Welcome to our church family! At Grace Community, we believe that everyone is on a spiritual journey, and we're here to walk alongside you. Our community is built on love, acceptance, and the teachings of Jesus Christ. Whether you're exploring faith for the first time or looking to deepen your spiritual life, you'll find a place here where you can grow, serve, and connect with others. We look forward to meeting you this Sunday!",
+		"title": "Senior Pastor"
+	},
+	"ministries": [
+		{
+			"name": "Children's Ministry",
+			"description": "Nurturing the faith of our youngest members through age-appropriate lessons, activities, and community.",
+			"icon": "baby"
+		},
+		{
+			"name": "Youth Group",
+			"description": "Creating a space where teens can explore their faith, build meaningful friendships, and develop leadership skills.",
+			"icon": "users"
+		},
+		{
+			"name": "Music & Worship",
+			"description": "Expressing our praise through contemporary and traditional music styles that inspire and uplift.",
+			"icon": "music"
+		},
+		{
+			"name": "Community Outreach",
+			"description": "Serving our local community through various programs, food drives, and volunteer opportunities.",
+			"icon": "heart-handshake"
+		},
+		{
+			"name": "Bible Study",
+			"description": "Deepening our understanding of Scripture through weekly small group studies and discussions.",
+			"icon": "book-open"
+		},
+		{
+			"name": "Prayer Team",
+			"description": "Supporting our church family and community through consistent, intentional prayer.",
+			"icon": "hands-praying"
+		}
+	],
+	"events": [
+		{
+			"title": "Sunday Worship Service",
+			"date": "Every Sunday",
+			"time": "10:00 AM - 11:30 AM",
+			"location": "Main Sanctuary",
+			"description": "Join us for worship, prayer, and an inspiring message from Pastor Jonathan."
+		},
+		{
+			"title": "Midweek Bible Study",
+			"date": "Every Wednesday",
+			"time": "7:00 PM - 8:30 PM",
+			"location": "Fellowship Hall",
+			"description": "A deeper dive into Scripture with interactive discussion and application."
+		},
+		{
+			"title": "Community Food Drive",
+			"date": "June 15, 2025",
+			"time": "9:00 AM - 2:00 PM",
+			"location": "Church Parking Lot",
+			"description": "Help us collect non-perishable food items for local families in need."
+		},
+		{
+			"title": "Summer Youth Camp",
+			"date": "July 10-14, 2025",
+			"time": "All Day",
+			"location": "Camp Wildwood",
+			"description": "A week of fun, friendship, and faith for students grades 6-12."
+		}
+	],
+	"location": {
+		"address": "123 Faith Avenue, Graceville, CA 90210",
+		"phone": "(555) 123-4567",
+		"email": "info@gracecommunity.org",
+		"serviceTime": "Sundays at 10:00 AM",
+		"mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.7447022863154!2d-122.4194!3d37.7749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80859a6d00690021%3A0x4a501367f076adff!2sSan%20Francisco%2C%20CA!5e0!3m2!1sen!2sus!4v1620784242246!5m2!1sen!2sus"
+	},
+	"social": {
+		"facebook": "https://facebook.com",
+		"instagram": "https://instagram.com",
+		"youtube": "https://youtube.com",
+		"twitter": "https://twitter.com"
+	}
+}
